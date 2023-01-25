@@ -20,8 +20,9 @@ For developing a simple GUI URL Shortener in python you must have to prior knowl
 <b>And now we will start writing codes for making this. To create this we have to do four things</b> –<br>
 1. Importing Tkinter, Url Shortener and Pyperclip.<br>
 2. Creating the main interface(window for Url Shortener)<br>
-3. ..............<br>
-4. ................
+3. Create the label where the shortened url will be shown<br>
+4. Define the function to perform the shortening operation(pyperclip is used here)<br>
+
 <br>
 <br>
 <h1>How to Use</h1>
