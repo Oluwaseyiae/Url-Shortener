@@ -31,7 +31,7 @@ For developing a simple GUI URL Shortener in python you must have to prior knowl
 2. Allow execution of the Url Shortener.py<br>
 3. Execute Url Shortener.py<br>
 </p>
-<img src="images/cal-1.png"><img src="images/cal-2.png">
+<img src="images/pic-1.png"><img src="images/pic-2.png">
 <br>
 <h1>What it Does </h1>
 1. Copy and Paste <br>
