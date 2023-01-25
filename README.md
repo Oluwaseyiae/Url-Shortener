@@ -1,5 +1,5 @@
-﻿<center><h1>Calculator</h1></center>
-<h2>A simple calculator with GUI using Tkinter in python.</h2>
+﻿<center><h1>URL Shortener</h1></center>
+<h2>A simple url shortener with GUI using Tkinter in python.</h2>
 <br> 
 <h1>What is Tkinter</h1><br>
 Tkinter python module that provides a robust and platform independent windowing toolkit, that is available to Python programmers using the tkinter package, and its extension, the tkinter.tix and the tkinter.ttk modules.
