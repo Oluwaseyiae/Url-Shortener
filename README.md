@@ -32,8 +32,8 @@ For developing a simple GUI URL Shortener in python you must have to prior knowl
 </p>
 <img src="images/cal-1.png"><img src="images/cal-2.png">
 <br>
-<h1>Supported Operations</h1>
-1. Copy and Paste
+<h1>What it Does </h1>
+1. Copy and Paste <br>
 2. Shortening Url
 
 <h1>How to Contribute</h1>
