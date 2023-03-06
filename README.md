@@ -53,7 +53,7 @@ For developing a simple GUI URL Shortener in python you must have to prior knowl
 <a href="https://twitter.com/kingdom2203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingdom2203" height="30" width="40" /></a>
 <br>
 <br>
-<h3>Show your support</h3>
+<h4>Show your support</h4>
 
 Give a ⭐ if you like this website and kindly follow for more!
  
